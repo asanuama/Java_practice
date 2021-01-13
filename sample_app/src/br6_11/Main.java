@@ -1,5 +1,4 @@
-package sample_app;
-
+package br6_11;
 
 public class Main {
     public static void main(String[] args) {

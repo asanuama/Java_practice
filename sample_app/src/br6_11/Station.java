@@ -1,4 +1,4 @@
-package sample_app;
+package br6_11;
 
 public class Station {
 	private String name;
