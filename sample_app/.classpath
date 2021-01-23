@@ -7,5 +7,6 @@
 	</classpathentry>
 	<classpathentry kind="src" path="bronze"/>
 	<classpathentry kind="src" path="Codeprep"/>
+	<classpathentry kind="src" path="silver"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
